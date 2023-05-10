@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mmhussein13
+- 👋 Hi, I’m Hussein
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CCS, JAVA, C++
-- 💞️ I’m looking to collaborate on any programming project
+- 🌱 I’m currently working on HTML, CCS, JavaScript, C/C++, Python-Django
+- 💞️ I’m looking to collaborate on any web programming project
 - 📫 How to reach me https://twitter.com/mmhussein12
 
 <!---
